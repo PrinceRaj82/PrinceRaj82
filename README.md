@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PrinceRaj82
-- 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning a Bachelor of Arts from K K Verma Evening college that is affiliated with Vinoba Bhave University, Hazaribag.
-- 📫 You can reach me using my social media Handle and email address 
+- 👋 Hi, I’m Rajkumar verma.
+- 👀 I’m interested in learning new technology.
+🌱 I’m currently pursuing a Bachelor of Arts from K K Verma Evening College, which is affiliated with Vinoba Bhave University, Hazaribag.
+- 📫 You can reach me using my social media Handle and email address. 
 - 😄 Pronouns: Prince Raj
 
 <!---
